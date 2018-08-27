@@ -7,7 +7,6 @@ import pandas as pd
 from cStringIO import StringIO
 import base64
 
-
 html = '''
 <html>
     <body>
